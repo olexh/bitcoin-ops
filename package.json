@@ -1,5 +1,5 @@
 {
-	"name": "@paladeum/bitcoin-ops",
+	"name": "@olexh/paladeum-bitcoin-ops",
 	"version": "1.4.1",
 	"description": "bitcoin OP codes",
 	"author": "Daniel Cousens",
